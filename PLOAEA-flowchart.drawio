@@ -159,6 +159,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X9Zx9rGIn77pXvTKiDJF-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#b5b5b5, #ededed);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="uDbShgFYCV4k4a58hbFS-429" target="X9Zx9rGIn77pXvTKiDJF-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1500" y="2327" />
+              <mxPoint x="1500" y="2450" />
+              <mxPoint x="1267" y="2450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9Zx9rGIn77pXvTKiDJF-85" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=light-dark(#b5b5b5, #ededed);strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#858585,#EDEDED);fontStyle=1;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="X9Zx9rGIn77pXvTKiDJF-84">
+          <mxGeometry x="-0.2405" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uDbShgFYCV4k4a58hbFS-429" value="Stopping condition met?" style="vsdxID=425;fillColor=#e74c3c;gradientColor=none;shape=stencil(nZBdDoMgEIRPs+/IxhMovYeJKJtSMIh/txeyaarGNE3fZuCbSXYAq9E0gwYpxhj8Uy/URgNYg5TkjA4UkwJUgFXng+6Dn1zLfmgymdXLz7lh5VwpckSKjS27B5OW3IEsxBktv7CX1nf0lv279UT+flUSnzE6spa3PP5fx0tPPDyqHQ==);strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=15;fontColor=light-dark(#FFFFFF,#EDEDED);" parent="1" vertex="1">
           <mxGeometry x="1167" y="2304" width="200" height="47" as="geometry" />
         </mxCell>
